@@ -13,6 +13,10 @@
 
 - 📄 Know about my experiences [https://abusavvy.github.io/](https://abusavvy.github.io/)
 
+- 📞 08036850063
+
+- WhatsApp: 08093943777
+
 - ⚡ Fun fact **I am nice and likeable**
 
 <h3 align="left">Connect with me:</h3>
