@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://abusavvy.github.io/](https://abusavvy.github.io/)
 
-- 📝 I regularly write articles on [https://abusavvy.substack.com/](https://abusavvy.substack.com/)
 
 - 📫 How to reach me **abusavvy@gmail.com**
 
