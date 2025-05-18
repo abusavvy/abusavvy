@@ -1,8 +1,8 @@
 ![master-header](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
 
-<h1 align="center">Hi, I'm Abubakar Oyerogba</h1>
-<h3 align="center">A Digital and Technology Consultant with expertise in WordPress Dev, Web Design, Graphic Design, Brand Identity, Content Creation and Digital Skills.
-</h3>
+# Hi, I'm Abubakar Oyerogba
+### A Digital and Technology Consultant with expertise in WordPress Dev, Web Design, Graphic Design, Brand Identity, Content Creation and Digital Skills.
+
 
 
 - 👨‍💻 All of my projects are available at [https://abusavvy.github.io/](https://abusavvy.github.io/)
