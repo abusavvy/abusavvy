@@ -1,6 +1,5 @@
-![master-header](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
-
 # Hi, I'm Abubakar Oyerogba
+
 ### A Digital and Technology Consultant with expertise in WordPress Dev, Web Design, Graphic Design, Brand Identity, Content Creation and Digital Skills.
 
 
